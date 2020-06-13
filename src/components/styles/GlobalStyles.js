@@ -28,7 +28,7 @@ export const baseStyles = injectGlobal`
       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif,
       'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
-    font-size: 16px;
+    font-size: 14px;
     scroll-behavior: smooth;
   }
 
